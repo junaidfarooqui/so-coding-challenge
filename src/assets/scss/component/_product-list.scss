@@ -1,6 +1,6 @@
 .product-list-section {
   h1 {
-    margin-bottom: 25px;
+    margin-bottom: 1.563rem;
     line-height: 2rem;
     text-align: center;
   }
@@ -11,17 +11,17 @@
     justify-content: space-between;
 
     .card {
-      width: calc(33.33% - 20px);
-      margin: 10px;
+      width: calc(33.33% - 1.25rem);
+      margin: 0.625rem;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
       height: auto;
 
       @media (max-width: map-get($breakpoints, tablet)) {
-        width: calc(50% - 20px);
+        width: calc(50% - 1.25rem);
       }
 
       @media (max-width: map-get($breakpoints, mobile)) {
-        width: calc(100% - 20px);
+        width: calc(100% - 1.25rem);
       }
 
       .product-image {
@@ -43,7 +43,7 @@
 
       .product-info {
         text-align: left;
-        padding: 10px 15px;
+        padding: 0.625rem 1rem;
         h2 {
           font-size: 1.2rem;
         }

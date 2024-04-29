@@ -36,12 +36,12 @@
     display: flex;
     justify-content: center;
     position: absolute;
-    bottom: 10px;
+    bottom: 0.625rem;
     width: 100%;
 
     .nav-dot {
-      padding: 5px;
-      margin-right: 5px;
+      padding: 0.313rem;
+      margin-right: 0.313rem;
       cursor: pointer;
       border-radius: 50%;
       background: rgba(255, 255, 255, 0.5);
