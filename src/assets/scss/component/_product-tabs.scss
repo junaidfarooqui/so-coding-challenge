@@ -7,6 +7,9 @@
   .tab-list {
     ul {
       display: flex;
+      @media (max-width: map-get($breakpoints, mobile)) {
+        display: block;
+      }
       li {
         text-transform: uppercase;
         color: $base;
@@ -15,9 +18,18 @@
         border-bottom: 4px solid transparent;
         padding-bottom: 0.625rem;
         cursor: pointer;
-        transition: all ease-in 0.5s;
+        transition: all ease-in 0.25s;
+        @media (max-width: map-get($breakpoints, mobile)) {
+          margin-right: 0;
+          padding: 0.625rem;
+        }
         &.active {
           border-color: $base;
+          @media (max-width: map-get($breakpoints, mobile)) {
+            border: 0;
+            background: $base;
+            color: $white;
+          }
         }
       }
     }
