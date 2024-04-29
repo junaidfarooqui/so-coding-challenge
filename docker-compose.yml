@@ -1,0 +1,22 @@
+version: '3.8'
+services:
+  api-server:
+    build:
+      context: .
+      dockerfile: Dockerfile-server
+    ports:
+      - "4021:4021"
+    volumes:
+      - ./server:/src/app
+
+  vue-app:
+    build:
+      context: .
+      dockerfile: Dockerfile-app
+    ports:
+      - "4022:4022"
+    volumes:
+      - ./src:/app/src
+      - ./tsconfig.json:/app/tsconfig.json
+    depends_on:
+      - api-server

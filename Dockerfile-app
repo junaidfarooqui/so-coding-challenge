@@ -1,0 +1,35 @@
+# Use Node.js 16 image
+FROM node:16
+
+# Set the working directory
+WORKDIR /app
+
+# Copy package.json and possibly package-lock.json
+COPY package*.json ./
+
+# Install dependencies
+RUN npm install
+
+# Copy the tsconfig.json and .eslintrc files from the project root
+COPY tsconfig.json ./
+COPY .eslintrc.js ./
+COPY vue.config.js ./
+COPY jest.config.js ./
+COPY babel.config.js ./
+COPY .browserslistrc ./
+
+# Copy the entire src directory
+COPY src/ src/
+
+# Also copy the public folder to the root of the working directory
+COPY public/ public/
+
+# Build the Vue app
+RUN npm run build
+
+# Expose the port the app runs on
+EXPOSE 4022
+
+# Serve the app using serve package
+RUN npm install -g serve
+CMD ["serve", "-s", "dist", "-l", "4022"]

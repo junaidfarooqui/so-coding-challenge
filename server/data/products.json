@@ -1,0 +1,210 @@
+{
+  "id": "001",
+  "name": "Classic Men's T-Shirt",
+  "availableColors": [
+    {
+      "name": "Helles Türkis",
+      "thumbnail": "images/helles-thumbnail.webp"
+    },
+    {
+      "name": "Petrol",
+      "thumbnail": "images/petrol-thumbnail.webp"
+    },
+    {
+      "name": "Beige",
+      "thumbnail": "images/beige-thumbnail.webp"
+    }
+  ],
+  "availableSizes": ["S", "M", "L"],
+  "variants": [
+    {
+      "color": "Helles Türkis",
+      "size": "S",
+      "price": 19.99,
+      "specialPrice": 17.99,
+      "stock": 15,
+      "SKU": "RED-S-001",
+      "id": "1001",
+      "condition": "Brand New",
+      "pictures": [
+        "images/helles-img-1.webp",
+        "images/helles-img-2.webp",
+        "images/helles-img-3.webp",
+        "images/helles-img-4.webp",
+        "images/helles-img-5.webp"
+      ],
+      "productDetails": "Das Polo-Shirt ist ein vielseitiger Klassiker, der dank seiner hochwertigen Baumwollqualität und der regulären Passform einen angenehm griffigen Tragekomfort bietet. Mit dem zeitlosen Polokragen und den kurzen Ärmeln ist es der perfekte Begleiter für warme Sommertage und lässige Freizeitlooks. Egal ob zur Jeans oder zur Chino-Hose kombiniert - dank der Knopfleiste versprüht dieses Polo-Shirt mit seiner cleanen Silhouette eine sportlich-elegante Ausstrahlung. Entdecke jetzt die neuen Farbvarianten und sichere dir dein frisches Sommer-Feeling!",
+      "productFit": "Passform : Regular Fit<br/>Back length : for size M approx. 70 cm<br/><br/>Need help finding your size? Click on the size chart here.",
+      "materialAndCare": "Fabric : cotton<br/>Quality : easy to grip<br/><br/><strong>MATERIAL COMPOSITION</strong><br/>100% cotton<br/><br/><strong>CARE INSTRUCTIONS</strong><br/>Chlorine bleach not possible<br/>Not suitable for dryers<br/>Schonwaschgang 30°<br/>No dry cleaning possible<br/>Iron moderately hot",
+      "sustainability": "In the area of \u200B\u200Bsustainably certified fibers, we are committed to natural fibers from renewable sources. Your raw materials are grown in a way that conserves resources.<br/><br/>This product supports sustainable cotton cultivation: economically, ecologically, socially. The procurement of sustainable cotton follows the principle of mass balance. You can find more information about this at <a href='https://www.soliver-group.com'>soliver-group.com</a>"
+    },
+    {
+      "color": "Helles Türkis",
+      "size": "M",
+      "price": 19.99,
+      "specialPrice": null,
+      "stock": 10,
+      "SKU": "RED-M-002",
+      "id": "1002",
+      "condition": "Brand New",
+      "pictures": [
+        "images/helles-img-1.webp",
+        "images/helles-img-2.webp",
+        "images/helles-img-3.webp",
+        "images/helles-img-4.webp",
+        "images/helles-img-5.webp"
+      ],
+      "productDetails": "Das Polo-Shirt ist ein vielseitiger Klassiker, der dank seiner hochwertigen Baumwollqualität und der regulären Passform einen angenehm griffigen Tragekomfort bietet. Mit dem zeitlosen Polokragen und den kurzen Ärmeln ist es der perfekte Begleiter für warme Sommertage und lässige Freizeitlooks. Egal ob zur Jeans oder zur Chino-Hose kombiniert - dank der Knopfleiste versprüht dieses Polo-Shirt mit seiner cleanen Silhouette eine sportlich-elegante Ausstrahlung. Entdecke jetzt die neuen Farbvarianten und sichere dir dein frisches Sommer-Feeling!",
+      "productFit": "Passform : Regular Fit<br/>Back length : for size M approx. 70 cm<br/><br/>Need help finding your size? Click on the size chart here.",
+      "materialAndCare": "Fabric : cotton<br/>Quality : easy to grip<br/><br/><strong>MATERIAL COMPOSITION</strong><br/>100% cotton<br/><br/><strong>CARE INSTRUCTIONS</strong><br/>Chlorine bleach not possible<br/>Not suitable for dryers<br/>Schonwaschgang 30°<br/>No dry cleaning possible<br/>Iron moderately hot",
+      "sustainability": "In the area of \u200B\u200Bsustainably certified fibers, we are committed to natural fibers from renewable sources. Your raw materials are grown in a way that conserves resources.<br/><br/>This product supports sustainable cotton cultivation: economically, ecologically, socially. The procurement of sustainable cotton follows the principle of mass balance. You can find more information about this at <a href='https://www.soliver-group.com'>soliver-group.com</a>"
+    },
+    {
+      "color": "Helles Türkis",
+      "size": "L",
+      "price": 19.99,
+      "specialPrice": 18.99,
+      "stock": 4,
+      "SKU": "RED-L-003",
+      "id": "1003",
+      "condition": "Brand New",
+      "pictures": [
+        "images/helles-img-1.webp",
+        "images/helles-img-2.webp",
+        "images/helles-img-3.webp",
+        "images/helles-img-4.webp",
+        "images/helles-img-5.webp"
+      ],
+      "productDetails": "Das Polo-Shirt ist ein vielseitiger Klassiker, der dank seiner hochwertigen Baumwollqualität und der regulären Passform einen angenehm griffigen Tragekomfort bietet. Mit dem zeitlosen Polokragen und den kurzen Ärmeln ist es der perfekte Begleiter für warme Sommertage und lässige Freizeitlooks. Egal ob zur Jeans oder zur Chino-Hose kombiniert - dank der Knopfleiste versprüht dieses Polo-Shirt mit seiner cleanen Silhouette eine sportlich-elegante Ausstrahlung. Entdecke jetzt die neuen Farbvarianten und sichere dir dein frisches Sommer-Feeling!",
+      "productFit": "Passform : Regular Fit<br/>Back length : for size M approx. 70 cm<br/><br/>Need help finding your size? Click on the size chart here.",
+      "materialAndCare": "Fabric : cotton<br/>Quality : easy to grip<br/><br/><strong>MATERIAL COMPOSITION</strong><br/>100% cotton<br/><br/><strong>CARE INSTRUCTIONS</strong><br/>Chlorine bleach not possible<br/>Not suitable for dryers<br/>Schonwaschgang 30°<br/>No dry cleaning possible<br/>Iron moderately hot",
+      "sustainability": "In the area of \u200B\u200Bsustainably certified fibers, we are committed to natural fibers from renewable sources. Your raw materials are grown in a way that conserves resources.<br/><br/>This product supports sustainable cotton cultivation: economically, ecologically, socially. The procurement of sustainable cotton follows the principle of mass balance. You can find more information about this at <a href='https://www.soliver-group.com'>soliver-group.com</a>"
+    },
+    {
+      "color": "Petrol",
+      "size": "S",
+      "price": 21.99,
+      "specialPrice": null,
+      "stock": 0,
+      "SKU": "BLUE-S-004",
+      "id": "2001",
+      "condition": "Brand New",
+      "pictures": [
+        "images/petrol-img-1.webp",
+        "images/petrol-img-2.webp",
+        "images/petrol-img-3.webp",
+        "images/petrol-img-4.webp",
+        "images/petrol-img-5.webp"
+      ],
+      "productDetails": "Das Polo-Shirt ist ein vielseitiger Klassiker, der dank seiner hochwertigen Baumwollqualität und der regulären Passform einen angenehm griffigen Tragekomfort bietet. Mit dem zeitlosen Polokragen und den kurzen Ärmeln ist es der perfekte Begleiter für warme Sommertage und lässige Freizeitlooks. Egal ob zur Jeans oder zur Chino-Hose kombiniert - dank der Knopfleiste versprüht dieses Polo-Shirt mit seiner cleanen Silhouette eine sportlich-elegante Ausstrahlung. Entdecke jetzt die neuen Farbvarianten und sichere dir dein frisches Sommer-Feeling!",
+      "productFit": "Passform : Regular Fit<br/>Back length : for size M approx. 70 cm<br/><br/>Need help finding your size? Click on the size chart here.",
+      "materialAndCare": "Fabric : cotton<br/>Quality : easy to grip<br/><br/><strong>MATERIAL COMPOSITION</strong><br/>100% cotton<br/><br/><strong>CARE INSTRUCTIONS</strong><br/>Chlorine bleach not possible<br/>Not suitable for dryers<br/>Schonwaschgang 30°<br/>No dry cleaning possible<br/>Iron moderately hot",
+      "sustainability": "In the area of \u200B\u200Bsustainably certified fibers, we are committed to natural fibers from renewable sources. Your raw materials are grown in a way that conserves resources.<br/><br/>This product supports sustainable cotton cultivation: economically, ecologically, socially. The procurement of sustainable cotton follows the principle of mass balance. You can find more information about this at <a href='https://www.soliver-group.com'>soliver-group.com</a>"
+    },
+    {
+      "color": "Petrol",
+      "size": "M",
+      "price": 21.99,
+      "specialPrice": null,
+      "stock": 25,
+      "SKU": "BLUE-M-005",
+      "id": "2002",
+      "condition": "New",
+      "pictures": [
+        "images/petrol-img-1.webp",
+        "images/petrol-img-2.webp",
+        "images/petrol-img-3.webp",
+        "images/petrol-img-4.webp",
+        "images/petrol-img-5.webp"
+      ],
+      "productDetails": "Das Polo-Shirt ist ein vielseitiger Klassiker, der dank seiner hochwertigen Baumwollqualität und der regulären Passform einen angenehm griffigen Tragekomfort bietet. Mit dem zeitlosen Polokragen und den kurzen Ärmeln ist es der perfekte Begleiter für warme Sommertage und lässige Freizeitlooks. Egal ob zur Jeans oder zur Chino-Hose kombiniert - dank der Knopfleiste versprüht dieses Polo-Shirt mit seiner cleanen Silhouette eine sportlich-elegante Ausstrahlung. Entdecke jetzt die neuen Farbvarianten und sichere dir dein frisches Sommer-Feeling!",
+      "productFit": "Passform : Regular Fit<br/>Back length : for size M approx. 70 cm<br/><br/>Need help finding your size? Click on the size chart here.",
+      "materialAndCare": "Fabric : cotton<br/>Quality : easy to grip<br/><br/><strong>MATERIAL COMPOSITION</strong><br/>100% cotton<br/><br/><strong>CARE INSTRUCTIONS</strong><br/>Chlorine bleach not possible<br/>Not suitable for dryers<br/>Schonwaschgang 30°<br/>No dry cleaning possible<br/>Iron moderately hot",
+      "sustainability": "In the area of \u200B\u200Bsustainably certified fibers, we are committed to natural fibers from renewable sources. Your raw materials are grown in a way that conserves resources.<br/><br/>This product supports sustainable cotton cultivation: economically, ecologically, socially. The procurement of sustainable cotton follows the principle of mass balance. You can find more information about this at <a href='https://www.soliver-group.com'>soliver-group.com</a>"
+    },
+    {
+      "color": "Petrol",
+      "size": "L",
+      "price": 21.99,
+      "specialPrice": 19.99,
+      "stock": 30,
+      "SKU": "BLUE-L-006",
+      "id": "2003",
+      "condition": "Brand New",
+      "pictures": [
+        "images/petrol-img-1.webp",
+        "images/petrol-img-2.webp",
+        "images/petrol-img-3.webp",
+        "images/petrol-img-4.webp",
+        "images/petrol-img-5.webp"
+      ],
+      "productDetails": "Das Polo-Shirt ist ein vielseitiger Klassiker, der dank seiner hochwertigen Baumwollqualität und der regulären Passform einen angenehm griffigen Tragekomfort bietet. Mit dem zeitlosen Polokragen und den kurzen Ärmeln ist es der perfekte Begleiter für warme Sommertage und lässige Freizeitlooks. Egal ob zur Jeans oder zur Chino-Hose kombiniert - dank der Knopfleiste versprüht dieses Polo-Shirt mit seiner cleanen Silhouette eine sportlich-elegante Ausstrahlung. Entdecke jetzt die neuen Farbvarianten und sichere dir dein frisches Sommer-Feeling!",
+      "productFit": "Passform : Regular Fit<br/>Back length : for size M approx. 70 cm<br/><br/>Need help finding your size? Click on the size chart here.",
+      "materialAndCare": "Fabric : cotton<br/>Quality : easy to grip<br/><br/><strong>MATERIAL COMPOSITION</strong><br/>100% cotton<br/><br/><strong>CARE INSTRUCTIONS</strong><br/>Chlorine bleach not possible<br/>Not suitable for dryers<br/>Schonwaschgang 30°<br/>No dry cleaning possible<br/>Iron moderately hot",
+      "sustainability": "In the area of \u200B\u200Bsustainably certified fibers, we are committed to natural fibers from renewable sources. Your raw materials are grown in a way that conserves resources.<br/><br/>This product supports sustainable cotton cultivation: economically, ecologically, socially. The procurement of sustainable cotton follows the principle of mass balance. You can find more information about this at <a href='https://www.soliver-group.com'>soliver-group.com</a>"
+    },
+    {
+      "color": "Beige",
+      "size": "S",
+      "price": 21.99,
+      "specialPrice": null,
+      "stock": 15,
+      "SKU": "GREEN-S-007",
+      "id": "3001",
+      "condition": "Brand New",
+      "pictures": [
+        "images/beige-img-1.webp",
+        "images/beige-img-2.webp",
+        "images/beige-img-3.webp",
+        "images/beige-img-4.webp",
+        "images/beige-img-5.webp"
+      ],
+      "productDetails": "Das Polo-Shirt ist ein vielseitiger Klassiker, der dank seiner hochwertigen Baumwollqualität und der regulären Passform einen angenehm griffigen Tragekomfort bietet. Mit dem zeitlosen Polokragen und den kurzen Ärmeln ist es der perfekte Begleiter für warme Sommertage und lässige Freizeitlooks. Egal ob zur Jeans oder zur Chino-Hose kombiniert - dank der Knopfleiste versprüht dieses Polo-Shirt mit seiner cleanen Silhouette eine sportlich-elegante Ausstrahlung. Entdecke jetzt die neuen Farbvarianten und sichere dir dein frisches Sommer-Feeling!",
+      "productFit": "Passform : Regular Fit<br/>Back length : for size M approx. 70 cm<br/><br/>Need help finding your size? Click on the size chart here.",
+      "materialAndCare": "Fabric : cotton<br/>Quality : easy to grip<br/><br/><strong>MATERIAL COMPOSITION</strong><br/>100% cotton<br/><br/><strong>CARE INSTRUCTIONS</strong><br/>Chlorine bleach not possible<br/>Not suitable for dryers<br/>Schonwaschgang 30°<br/>No dry cleaning possible<br/>Iron moderately hot",
+      "sustainability": "In the area of \u200B\u200Bsustainably certified fibers, we are committed to natural fibers from renewable sources. Your raw materials are grown in a way that conserves resources.<br/><br/>This product supports sustainable cotton cultivation: economically, ecologically, socially. The procurement of sustainable cotton follows the principle of mass balance. You can find more information about this at <a href='https://www.soliver-group.com'>soliver-group.com</a>"
+    },
+    {
+      "color": "Beige",
+      "size": "M",
+      "price": 23.99,
+      "specialPrice": null,
+      "stock": 18,
+      "SKU": "GREEN-M-008",
+      "id": "3002",
+      "condition": "Brand New",
+      "pictures": [
+        "images/beige-img-1.webp",
+        "images/beige-img-2.webp",
+        "images/beige-img-3.webp",
+        "images/beige-img-4.webp",
+        "images/beige-img-5.webp"
+      ],
+      "productDetails": "Das Polo-Shirt ist ein vielseitiger Klassiker, der dank seiner hochwertigen Baumwollqualität und der regulären Passform einen angenehm griffigen Tragekomfort bietet. Mit dem zeitlosen Polokragen und den kurzen Ärmeln ist es der perfekte Begleiter für warme Sommertage und lässige Freizeitlooks. Egal ob zur Jeans oder zur Chino-Hose kombiniert - dank der Knopfleiste versprüht dieses Polo-Shirt mit seiner cleanen Silhouette eine sportlich-elegante Ausstrahlung. Entdecke jetzt die neuen Farbvarianten und sichere dir dein frisches Sommer-Feeling!",
+      "productFit": "Passform : Regular Fit<br/>Back length : for size M approx. 70 cm<br/><br/>Need help finding your size? Click on the size chart here.",
+      "materialAndCare": "Fabric : cotton<br/>Quality : easy to grip<br/><br/><strong>MATERIAL COMPOSITION</strong><br/>100% cotton<br/><br/><strong>CARE INSTRUCTIONS</strong><br/>Chlorine bleach not possible<br/>Not suitable for dryers<br/>Schonwaschgang 30°<br/>No dry cleaning possible<br/>Iron moderately hot",
+      "sustainability": "In the area of \u200B\u200Bsustainably certified fibers, we are committed to natural fibers from renewable sources. Your raw materials are grown in a way that conserves resources.<br/><br/>This product supports sustainable cotton cultivation: economically, ecologically, socially. The procurement of sustainable cotton follows the principle of mass balance. You can find more information about this at <a href='https://www.soliver-group.com'>soliver-group.com</a>"
+    },
+    {
+      "color": "Beige",
+      "size": "L",
+      "price": 25.99,
+      "specialPrice": 19.99,
+      "stock": 4,
+      "SKU": "GREEN-L-009",
+      "id": "3003",
+      "condition": "Brand New",
+      "pictures": [
+        "images/beige-img-1.webp",
+        "images/beige-img-2.webp",
+        "images/beige-img-3.webp",
+        "images/beige-img-4.webp",
+        "images/beige-img-5.webp"
+      ],
+      "productDetails": "Das Polo-Shirt ist ein vielseitiger Klassiker, der dank seiner hochwertigen Baumwollqualität und der regulären Passform einen angenehm griffigen Tragekomfort bietet. Mit dem zeitlosen Polokragen und den kurzen Ärmeln ist es der perfekte Begleiter für warme Sommertage und lässige Freizeitlooks. Egal ob zur Jeans oder zur Chino-Hose kombiniert - dank der Knopfleiste versprüht dieses Polo-Shirt mit seiner cleanen Silhouette eine sportlich-elegante Ausstrahlung. Entdecke jetzt die neuen Farbvarianten und sichere dir dein frisches Sommer-Feeling!",
+      "productFit": "Passform : Regular Fit<br/>Back length : for size M approx. 70 cm<br/><br/>Need help finding your size? Click on the size chart here.",
+      "materialAndCare": "Fabric : cotton<br/>Quality : easy to grip<br/><br/><strong>MATERIAL COMPOSITION</strong><br/>100% cotton<br/><br/><strong>CARE INSTRUCTIONS</strong><br/>Chlorine bleach not possible<br/>Not suitable for dryers<br/>Schonwaschgang 30°<br/>No dry cleaning possible<br/>Iron moderately hot",
+      "sustainability": "In the area of \u200B\u200Bsustainably certified fibers, we are committed to natural fibers from renewable sources. Your raw materials are grown in a way that conserves resources.<br/><br/>This product supports sustainable cotton cultivation: economically, ecologically, socially. The procurement of sustainable cotton follows the principle of mass balance. You can find more information about this at <a href='https://www.soliver-group.com'>soliver-group.com</a>"
+    }
+  ]
+}

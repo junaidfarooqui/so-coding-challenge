@@ -1,0 +1,53 @@
+.gallery-section {
+  position: relative;
+  width: 595px;
+  overflow: hidden;
+  float: left;
+  @media (max-width: map-get($breakpoints, tablet)) {
+    width: 50%;
+  }
+
+  @media (max-width: map-get($breakpoints, mobile)) {
+    width: 100%;
+  }
+
+  .slides-container {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+
+    .slide {
+      min-width: 595px;
+      width: 100%;
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 795px;
+      @media (max-width: map-get($breakpoints, tablet)) {
+        min-width:100%;
+        height: 595px;
+      }
+      @media (max-width: map-get($breakpoints, mobile)) {
+        min-width:100%;
+        height: 435px;
+      }
+    }
+  }
+  .navigation {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+
+    .nav-dot {
+      padding: 5px;
+      margin-right: 5px;
+      cursor: pointer;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.5);
+      &.active {
+        background: white;
+      }
+    }
+  }
+}

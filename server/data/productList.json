@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "Classic White T-Shirt",
+      "price": "€25.00",
+      "pictures": [
+        "images/pl-img-1.webp",
+        "images/pl-img-2.webp"
+      ],
+      "brand": {
+        "name": "s.Oliver",
+        "logo": "images/brand-soliver.png"
+      }
+    },
+    {
+      "id": "002",
+      "name": "Graphic Tee - Mountains",
+      "price": "€30.00",
+      "pictures": [
+        "images/pl-img-3.webp",
+        "images/pl-img-4.webp"
+      ],
+      "brand": {
+        "name": "s.Oliver",
+        "logo": "images/brand-soliver.png"
+      }
+    },
+    {
+      "id": "003",
+      "name": "Vintage Band T-Shirt",
+      "price": "€35.00",
+      "pictures": [
+        "images/pl-img-5.webp",
+        "images/pl-img-6.webp"
+      ],
+      "brand": {
+        "name": "s.Oliver",
+        "logo": "images/brand-soliver.png"
+      }
+    },
+    {
+      "id": "004",
+      "name": "Sports T-Shirt",
+      "price": "€28.00",
+      "pictures": [
+        "images/pl-img-7.webp",
+        "images/pl-img-8.webp"
+      ],
+      "brand": {
+        "name": "s.Oliver",
+        "logo": "images/brand-soliver.png"
+      }
+    },
+    {
+      "id": "005",
+      "name": "Long Sleeve Tee",
+      "price": "€32.00",
+      "pictures": [
+        "images/pl-img-9.webp",
+        "images/pl-img-10.webp"
+      ],
+      "brand": {
+        "name": "s.Oliver",
+        "logo": "images/brand-soliver.png"
+      }
+    },
+    {
+      "id": "006",
+      "name": "Pocket T-Shirt",
+      "price": "€27.00",
+      "pictures": [
+        "images/pl-img-11.webp",
+        "images/pl-img-12.webp"
+      ],
+      "brand": {
+        "name": "s.Oliver",
+        "logo": "images/brand-soliver.png"
+      }
+    }
+  ]
+}

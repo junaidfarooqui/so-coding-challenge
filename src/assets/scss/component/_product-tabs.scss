@@ -1,0 +1,29 @@
+.product-additional-details {
+  width: 100%;
+  overflow: hidden;
+  padding: 2rem;
+  background: $gray-light-1;
+
+  .tab-list {
+    ul {
+      display: flex;
+      li {
+        text-transform: uppercase;
+        color: $base;
+        font-weight: 700;
+        margin-right: 20px;
+        border-bottom: 4px solid transparent;
+        padding-bottom: 0.625rem;
+        cursor: pointer;
+        transition: all ease-in 0.5s;
+        &.active {
+          border-color: $base;
+        }
+      }
+    }
+  }
+
+  .tab-content {
+    padding: 1.5rem 0;
+  }
+}

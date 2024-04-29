@@ -1,0 +1,44 @@
+//Variables
+$font-size-base             : 1.6rem;
+$font-weight-base           : 400;
+$line-height-base           : 1.4;
+
+$ff-sans-serif              : "Helvetica Neue", Helvetica, Arial, sans-serif;
+$ff-serif                   : Georgia, "Times New Roman", Times, serif;
+
+$ff-open-sans 				: 'Open Sans', sans-serif;
+
+$t-duration                 : 0.3s;
+
+$shell-max-width            : 114rem;
+$shell-gutter               : 1.5rem;
+
+$black                    : #000;
+$white                    : #fff;
+$base                     : $black;
+$primary                  : #fc0000;
+$primary-dark             : #a00101;
+$primary-light            : #ffebeb;
+$gray-light-1             : #e0e0e0;
+$gray-light-2             : #eee;
+$gray-light-3             : #fefefe;
+
+$responsive-ios           : 812px;
+
+$breakpoints: (
+    mobile-small: 374px,
+    mobile-medium: 575px,
+    mobile: 767px,
+    admin-bar: 782px,
+    tablet: 1023px,
+    small-desktop: 1199px,
+    large-desktop: 1399px
+);
+
+* {
+  text-decoration: none;
+  box-sizing: border-box;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
